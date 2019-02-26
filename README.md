@@ -1,5 +1,4 @@
 # Helloworld
-trial_1
 +
 ##Why Github 
 I am trying to learn the bio-informatic skills for the extension of my current career. One of the most inportant skill I need to learn is the programming.
@@ -34,4 +33,3 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 &```
- master
